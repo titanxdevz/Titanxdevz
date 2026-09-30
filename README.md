@@ -1,71 +1,103 @@
-Ansh Singh
+<div align="center">
 
+```console
 $ whoami
 
-ansh — developer & builder
+ansh singh — developer & builder
 
-→ backend systems
-→ cloud infrastructure
-→ Discord platforms
-→ AI / API products
+  → backend systems
+  → cloud infrastructure
+  → Discord platforms
+  → AI / API products
+```
 
-Currently building: VexaNode · Flixo · Botliy · Relay
+</div>
 
-<p align="center">
-  <a href="https://vexanode.cloud">VexaNode</a> ·
-  <a href="https://botliy.online">Botliy</a> ·
-  <a href="https://github.com">GitHub</a>
-</p>---
+<br>
 
-"~/what-i-build"
+## What I build
 
-const ansh = {
-  building: [
-    "Cloud infrastructure",
-    "Developer platforms",
-    "Discord systems",
-    "AI / API products",
-    "Automation"
-  ],
+I build and operate backend systems and the infrastructure they run on: hosting platforms, music infrastructure, API products, and the developer tooling around them.
 
-  stack: [
-    "TypeScript",
-    "Bun",
-    "Node.js",
-    "Next.js",
-    "PostgreSQL",
-    "Linux",
-    "Docker"
-  ]
-};
+<br>
 
-"~/projects"
+## Projects
 
-Project| What it is
-VexaNode| Cloud infrastructure for bots, game servers, VPS & Lavalink
-Flixo| High-scale Discord music platform & Lavalink infrastructure
-Botliy| AI API platform with model access & usage billing
-Relay| Developer-focused dashboard & API infrastructure
-Zynrax| Discord development ecosystem & infrastructure
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <h3><a href="https://vexanode.cloud">VexaNode</a></h3>
+      <code>cloud infrastructure</code>
+    </td>
+    <td valign="top">
+      Cloud infrastructure for bot hosting, game servers, VPS and Lavalink.<br>
+      <a href="https://vexanode.cloud">vexanode.cloud</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top">
+      <h3><a href="https://flixo.bot">Flixo</a></h3>
+      <code>discord music</code>
+    </td>
+    <td valign="top">
+      Discord music platform and Lavalink infrastructure.<br>
+      <a href="https://flixo.bot">flixo.bot</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top">
+      <h3><a href="https://botliy.online">Botliy</a></h3>
+      <code>ai / api platform</code>
+    </td>
+    <td valign="top">
+      AI API platform providing access to AI models with usage-based billing.<br>
+      <a href="https://botliy.online">botliy.online</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" valign="top">
+      <h3><a href="https://relay.vexanode.cloud">Relay</a></h3>
+      <code>developer tooling</code>
+    </td>
+    <td valign="top">
+      Developer dashboard and API infrastructure.<br>
+      <a href="https://relay.vexanode.cloud">relay.vexanode.cloud</a>
+    </td>
+  </tr>
+</table>
 
-"~/currently"
+<br>
 
-[■■■■■■■■■■■■■■■■■■■■] Building
-[■■■■■■■■■■■■■■■■■□□□] Scaling
-[■■■■■■■■■■■■■■□□□] Experimenting
-[■■■■■■■■■■■■□□□] Shipping
+## Stack
 
-«I build the systems behind the product, not just the interface.»
+```text
+languages   TypeScript
+runtimes    Bun · Node.js
+frameworks  Next.js
+data        PostgreSQL
+platform    Linux · Docker
+```
 
----
+<br>
 
-<p align="center">
-  <code>TypeScript</code>
-  <code>Bun</code>
-  <code>Node.js</code>
-  <code>PostgreSQL</code>
-  <code>Next.js</code>
-  <code>Linux</code>
-</p><p align="center">
-  <sub>Build. Break. Learn. Ship.</sub>
-</p>
+## Currently building
+
+```text
+▸ VexaNode   hosting for bots, game servers, VPS and Lavalink
+▸ Flixo      Discord music and Lavalink infrastructure
+▸ Botliy     AI model access with usage-based billing
+▸ Relay      developer dashboard and API infrastructure
+```
+
+<br>
+
+<div align="center">
+
+<sub>
+<a href="https://vexanode.cloud">VexaNode</a> ·
+<a href="https://flixo.bot">Flixo</a> ·
+<a href="https://botliy.online">Botliy</a> ·
+<a href="https://relay.vexanode.cloud">Relay</a>
+</sub>
+
+</div>
